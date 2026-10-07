@@ -140,7 +140,7 @@
 
     <!-- HALAMAN 2: UCAPAN & FOTO -->
     <div id="page2" class="page">
-      <img src="abigail.jpg" alt="Abigail" class="profile-img">
+      <img src="Screenshot_20261007_185527_Instagram.jpg" alt="Abigail" class="profile-img">
       <h2>Selamat Ulang Tahun, Abigail! 🎉🎉</h2>
       <p>Semoga di usiamu yang baru ini selalu diberikan kebahagiaan, kesehatan, dan kelancaran dalam segala hal yang kamu impikan!</p>
 
